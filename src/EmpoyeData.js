@@ -1,20 +1,20 @@
 export const Data = [
     {
         id: 15,
-        firstName: "Malik",
-        lastName: "Touqeer",
+        firstName: "Sarib",
+        lastName: "KokA",
         age: 18
     },
     {
         id: 25,
-        firstName: "Anees",
+        firstName: "Faizan",
         lastName: "Ali",
         age: 10
     },
     {
         id: 32,
         firstName: "Malik",
-        lastName: "Hamza",
+        lastName: "Touqeer",
         age: 22
     },
 ];
